@@ -1,0 +1,14 @@
+h1 {
+	color: black;
+}
+
+
+table {
+	padding-right: 10%;
+	padding-left: 10%;
+}
+
+
+th, td {
+	border: 1px solid black;
+}
