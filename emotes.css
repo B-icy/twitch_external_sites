@@ -16,3 +16,7 @@ th, td {
 img {
 	height: 15em;
 }
+
+#spacer {
+	border: 0px;
+}
